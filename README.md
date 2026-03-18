@@ -37,12 +37,6 @@ Based on this data, it recommends similar and relevant courses to improve learni
 
 ---
 
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
-
 ## ⚙️ How to Run
 
 1. Download or clone the repository
@@ -61,11 +55,6 @@ Based on this data, it recommends similar and relevant courses to improve learni
 
 ---
 
-## 👩‍💻 Author
-
-**Anitha Loganathan**
-
----
 
 ## ⭐ Support
 
